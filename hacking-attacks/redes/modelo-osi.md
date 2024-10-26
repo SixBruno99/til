@@ -48,7 +48,7 @@ Data-Link (Enlace):
 
 - UDP garante velocidade
 
-***ession***
+***Session***
 
 - Iniciar e encerrar conexão entre hosts
 
