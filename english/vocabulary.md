@@ -1,34 +1,39 @@
 # English Vocabulary - New Words Learned
 
-1. **several** - vários (more than two but not many - mais que dois mas não muitos)
-2. **unbiased** - imparcial
-3. **ensure** - garantir
-4. **adheres** - aderir
-5. **breach** - violação/brecha
-6. **ransom note** - nota de resgate
-7. **claims** - reivindicações
-8. **dispose** - descartar
-9. **erasing** - apagando
-10. **procedures** - procedimentos
-11. **slight** - ligeiro
-12. **laziness** - preguiça
-13. **query** - consulta
-14. **stating** - declarando
-15. **schedule** - horário
-16. **standards** - normas
-17. **measures** - medidas
-18. **strict** - rigoroso
-19. **statements** - declarações
-20. **enforced** - aplicadas
-21. **regards to compliance** - no que respeita ao cumprimento
-22. **further** - avançar
-23. **on-premise** - localmente
-24. **related** - relacionada
-25. **accomplishments** - realizações
-26. **briefly** - brevemente
-27. **enablement** - capacitação
-28. **greater** - melhor/maior
-29. **often overlap** - muitas vezes se sobrepõem
-30. **badge** - distintivo/credencial
-31. **duties** - obrigações
-
+1. **accomplishments** - realizações  
+2. **adheres** - aderir  
+3. **badge** - distintivo/credencial  
+4. **breach** - violação/brecha  
+5. **briefly** - brevemente  
+6. **claims** - reivindicações  
+7. **containment** - contenção  
+8. **dispose** - descartar  
+9. **due** - devido  
+10. **duties** - obrigações  
+11. **enablement** - capacitação  
+12. **enforced** - aplicadas  
+13. **ensure** - garantir  
+14. **erasing** - apagando  
+15. **further** - avançar  
+16. **greater** - melhor/maior  
+17. **laziness** - preguiça  
+18. **likelihood** - probabilidade  
+19. **measures** - medidas  
+20. **Mishandling** - Manuseio incorreto  
+21. **often overlap** - muitas vezes se sobrepõem  
+22. **on-premise** - localmente  
+23. **procedures** - procedimentos  
+24. **query** - consulta  
+25. **ransom note** - nota de resgate  
+26. **regards to compliance** - no que respeita ao cumprimento  
+27. **related** - relacionada  
+28. **rely** - confiar  
+29. **schedule** - horário  
+30. **several** - vários  
+31. **slight** - ligeiro  
+32. **standards** - normas  
+33. **statements** - declarações  
+34. **stating** - declarando  
+35. **strict** - rigoroso  
+36. **unbiased** - imparcial  
+37. **widely** - amplamente  
